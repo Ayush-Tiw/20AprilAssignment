@@ -1,0 +1,122 @@
+.header-content{
+    background-color:rgb(19, 18, 18);
+    color:whitesmoke;
+    margin:0px;
+    height:500px
+}
+
+.introduction{
+    text-align: center;
+    padding: 100px;
+}
+.navBar{
+    padding:20px;
+    padding-left: 40px;
+}
+.navBar a{
+    text-decoration: none;
+color:rgb(110, 102, 102);
+margin:10px;
+}
+.main-content{
+    display:flex;
+    padding:200px;
+    padding-top:50px
+}
+.inside-content1{
+    margin-right: 20px;
+}
+#button{
+    text-align: center;
+
+}
+#btn1{
+    background-color: rgb(218, 216, 216);
+    color:rgb(97, 95, 95);
+    margin-left:10px;
+    border-radius:10px;
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:15px;
+    padding-bottom:15px;
+    
+}
+
+#btn2{
+background-color: rgb(221, 32, 32) ;
+color:whitesmoke   ;
+margin-left:10px;
+border-radius:10px;
+padding-left:20px;
+    padding-right:20px;
+    padding-top:15px;
+    padding-bottom:15px;
+}
+
+#btn3{
+    background-color: rgb(255, 169, 9);
+    color:whitesmoke;
+    margin-left:10px;
+    border-radius:10px;
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:15px;
+    padding-bottom:15px;
+}
+#quote{
+    background-color:rgb(12, 11, 11);
+    color:whitesmoke;
+    font-weight:bold;
+    font-size:28px;
+    padding:70px;
+    margin-top:60px;
+    margin-bottom:30px;
+    text-align: center;
+}
+
+#awards{
+    text-align: center;
+}
+#achievements{
+    display:flex;
+    justify-content: center;
+    padding: 30px 50px 30px 50px;
+}
+.award{
+ padding:10px;
+border:1px solid grey;
+margin-left:15px;
+border-radius:5px;
+box-shadow:0 0 3px grey
+}
+#awards i{
+    margin-top:5px;
+    margin-right:5px;
+}
+
+.poem_poetry{
+    padding:20px 40px 20px 40px;
+    display: flex;
+}
+.poetry{
+    margin-left:20px ;
+}
+.poem_poetry_heading{
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    background-color:black;
+    color:white;
+    padding:80px;
+    justify-content: center;
+}
+hr{
+    color:black
+}
+.grey{
+    color: grey;
+}
